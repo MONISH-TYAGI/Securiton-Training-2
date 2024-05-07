@@ -1,0 +1,41 @@
+<h1>Hello App</h1>
+<app-login></app-login>
+<button (click)="getData('click')">Click me</button>    
+<input type="text" #box (keyup)="getData(box.value)"    placeholder="Enter "/>
+<p>
+  {{data}}
+</p>
+<input type="text" name="user-name" value={{name}} disabled="{{disable1}}" placeholder="input1"/> //interpolation
+<br/>
+<input type="text" name="user-name" [value]=name [disabled]=disable1 placeholder="input2"/> //property binding
+<br/>
+<input type="text" name="user-name" value={{name}} disabled="{{disable2}}" placeholder="input3"/>    
+<br/>
+<input type="text" name="user-name" [value]=name [disabled]=disable2 placeholder="input4"/>    
+
+<h1 *ngIf="show ; then ifBlock else elseBlock">Heading</h1>
+<ng-template #ifBlock>
+  <p>if block</p>
+</ng-template>
+<ng-template #elseBlock>
+  <p>else block</p>
+</ng-template>
+<ng-template [ngIf]="color==='red'">
+<h1 style="color:red;">Red Color</h1>
+</ng-template>
+
+
+<ng-template [ngIf]="color==='green'">
+    <h1 style="color:green;">Red Color</h1>
+    </ng-template>
+
+<div [ngSwitch]="color2">
+    <h1 *ngSwitchCase="'red'" style="color:red;" >Red Color</h1>
+    <h1 *ngSwitchCase="'green'" style="color:green;" >Green Color</h1>
+    <h1 *ngSwitchCase="'blue'" style="color:blue;" >Blue Color</h1>
+    <h1 *ngSwitchCase="'yellow'" style="color:yellow;" >Yellow Color</h1>
+    <h1 *ngSwitchCase="'orange'" style="color:orange;" >Orange Color</h1>
+
+</div>
+<h3 *ngFor="let item of users">Name is : {{item}}</h3>
+<h3 *ngFor="let item of userDetails">Name is : {{item}}</h3>

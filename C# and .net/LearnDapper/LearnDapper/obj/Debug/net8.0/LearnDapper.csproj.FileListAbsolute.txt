@@ -1,0 +1,8 @@
+E:\Training\C# and .net\LearnDapper\LearnDapper\obj\Debug\net8.0\LearnDapper.csproj.AssemblyReference.cache
+E:\Training\C# and .net\LearnDapper\LearnDapper\obj\Debug\net8.0\LearnDapper.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\C# and .net\LearnDapper\LearnDapper\obj\Debug\net8.0\LearnDapper.AssemblyInfoInputs.cache
+E:\Training\C# and .net\LearnDapper\LearnDapper\obj\Debug\net8.0\LearnDapper.AssemblyInfo.cs
+E:\Training\C# and .net\LearnDapper\LearnDapper\obj\Debug\net8.0\LearnDapper.csproj.CoreCompileInputs.cache
+E:\Training\C# and .net\LearnDapper\LearnDapper\obj\Debug\net8.0\LearnDapper.MvcApplicationPartsAssemblyInfo.cs
+E:\Training\C# and .net\LearnDapper\LearnDapper\obj\Debug\net8.0\LearnDapper.MvcApplicationPartsAssemblyInfo.cache
+E:\Training\C# and .net\LearnDapper\LearnDapper\obj\Debug\net8.0\LearnDapper.sourcelink.json

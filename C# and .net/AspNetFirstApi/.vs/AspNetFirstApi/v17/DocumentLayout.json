@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Training\\C# and .net\\AspNetFirstApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76CE5CAB-455D-411D-8056-8B47B55BC890}|AspNetFirstApi\\AspNetFirstApi.csproj|e:\\training\\c# and .net\\aspnetfirstapi\\aspnetfirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76CE5CAB-455D-411D-8056-8B47B55BC890}|AspNetFirstApi\\AspNetFirstApi.csproj|solutionrelative:aspnetfirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76CE5CAB-455D-411D-8056-8B47B55BC890}|AspNetFirstApi\\AspNetFirstApi.csproj|e:\\training\\c# and .net\\aspnetfirstapi\\aspnetfirstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76CE5CAB-455D-411D-8056-8B47B55BC890}|AspNetFirstApi\\AspNetFirstApi.csproj|solutionrelative:aspnetfirstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76CE5CAB-455D-411D-8056-8B47B55BC890}|AspNetFirstApi\\AspNetFirstApi.csproj|e:\\training\\c# and .net\\aspnetfirstapi\\aspnetfirstapi\\aspnetfirstapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{76CE5CAB-455D-411D-8056-8B47B55BC890}|AspNetFirstApi\\AspNetFirstApi.csproj|solutionrelative:aspnetfirstapi\\aspnetfirstapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76CE5CAB-455D-411D-8056-8B47B55BC890}|AspNetFirstApi\\AspNetFirstApi.csproj|E:\\Training\\C# and .net\\AspNetFirstApi\\aspnetfirstapi\\controllers\\fruitsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76CE5CAB-455D-411D-8056-8B47B55BC890}|AspNetFirstApi\\AspNetFirstApi.csproj|solutionrelative:aspnetfirstapi\\controllers\\fruitsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76CE5CAB-455D-411D-8056-8B47B55BC890}|AspNetFirstApi\\AspNetFirstApi.csproj|e:\\training\\c# and .net\\aspnetfirstapi\\aspnetfirstapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76CE5CAB-455D-411D-8056-8B47B55BC890}|AspNetFirstApi\\AspNetFirstApi.csproj|solutionrelative:aspnetfirstapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 363,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Training\\C# and .net\\AspNetFirstApi\\AspNetFirstApi\\appsettings.json",
+              "RelativeDocumentMoniker": "AspNetFirstApi\\appsettings.json",
+              "ToolTip": "E:\\Training\\C# and .net\\AspNetFirstApi\\AspNetFirstApi\\appsettings.json",
+              "RelativeToolTip": "AspNetFirstApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T12:10:35.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AspNetFirstApi.http",
+              "DocumentMoniker": "E:\\Training\\C# and .net\\AspNetFirstApi\\AspNetFirstApi\\AspNetFirstApi.http",
+              "RelativeDocumentMoniker": "AspNetFirstApi\\AspNetFirstApi.http",
+              "ToolTip": "E:\\Training\\C# and .net\\AspNetFirstApi\\AspNetFirstApi\\AspNetFirstApi.http",
+              "RelativeToolTip": "AspNetFirstApi\\AspNetFirstApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-02T12:10:31.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Training\\C# and .net\\AspNetFirstApi\\AspNetFirstApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AspNetFirstApi\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Training\\C# and .net\\AspNetFirstApi\\AspNetFirstApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AspNetFirstApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T12:10:19.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Training\\C# and .net\\AspNetFirstApi\\AspNetFirstApi\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetFirstApi\\Program.cs",
+              "ToolTip": "E:\\Training\\C# and .net\\AspNetFirstApi\\AspNetFirstApi\\Program.cs",
+              "RelativeToolTip": "AspNetFirstApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:36:19.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FruitsAPIController.cs",
+              "DocumentMoniker": "E:\\Training\\C# and .net\\AspNetFirstApi\\AspNetFirstApi\\Controllers\\FruitsAPIController.cs",
+              "RelativeDocumentMoniker": "AspNetFirstApi\\Controllers\\FruitsAPIController.cs",
+              "ToolTip": "E:\\Training\\C# and .net\\AspNetFirstApi\\AspNetFirstApi\\Controllers\\FruitsAPIController.cs",
+              "RelativeToolTip": "AspNetFirstApi\\Controllers\\FruitsAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:47:13.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 37,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

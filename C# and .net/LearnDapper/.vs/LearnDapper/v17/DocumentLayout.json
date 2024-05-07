@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Training\\C# and .net\\LearnDapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA69B1B-A153-47C7-85B7-79E9FBB0F43F}|LearnDapper\\LearnDapper.csproj|E:\\Training\\C# and .net\\LearnDapper\\learndapper\\model\\data\\dapperdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA69B1B-A153-47C7-85B7-79E9FBB0F43F}|LearnDapper\\LearnDapper.csproj|solutionrelative:learndapper\\model\\data\\dapperdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA69B1B-A153-47C7-85B7-79E9FBB0F43F}|LearnDapper\\LearnDapper.csproj|E:\\Training\\C# and .net\\LearnDapper\\learndapper\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA69B1B-A153-47C7-85B7-79E9FBB0F43F}|LearnDapper\\LearnDapper.csproj|solutionrelative:learndapper\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA69B1B-A153-47C7-85B7-79E9FBB0F43F}|LearnDapper\\LearnDapper.csproj|e:\\training\\c# and .net\\learndapper\\learndapper\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA69B1B-A153-47C7-85B7-79E9FBB0F43F}|LearnDapper\\LearnDapper.csproj|solutionrelative:learndapper\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA69B1B-A153-47C7-85B7-79E9FBB0F43F}|LearnDapper\\LearnDapper.csproj|E:\\Training\\C# and .net\\LearnDapper\\learndapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DA69B1B-A153-47C7-85B7-79E9FBB0F43F}|LearnDapper\\LearnDapper.csproj|solutionrelative:learndapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA69B1B-A153-47C7-85B7-79E9FBB0F43F}|LearnDapper\\LearnDapper.csproj|E:\\Training\\C# and .net\\LearnDapper\\learndapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA69B1B-A153-47C7-85B7-79E9FBB0F43F}|LearnDapper\\LearnDapper.csproj|solutionrelative:learndapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA69B1B-A153-47C7-85B7-79E9FBB0F43F}|LearnDapper\\LearnDapper.csproj|E:\\Training\\C# and .net\\LearnDapper\\learndapper\\repo\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA69B1B-A153-47C7-85B7-79E9FBB0F43F}|LearnDapper\\LearnDapper.csproj|solutionrelative:learndapper\\repo\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA69B1B-A153-47C7-85B7-79E9FBB0F43F}|LearnDapper\\LearnDapper.csproj|e:\\training\\c# and .net\\learndapper\\learndapper\\repo\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA69B1B-A153-47C7-85B7-79E9FBB0F43F}|LearnDapper\\LearnDapper.csproj|solutionrelative:learndapper\\repo\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA69B1B-A153-47C7-85B7-79E9FBB0F43F}|LearnDapper\\LearnDapper.csproj|E:\\Training\\C# and .net\\LearnDapper\\learndapper\\model\\emoloyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA69B1B-A153-47C7-85B7-79E9FBB0F43F}|LearnDapper\\LearnDapper.csproj|solutionrelative:learndapper\\model\\emoloyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DapperDBContext.cs",
+              "DocumentMoniker": "E:\\Training\\C# and .net\\LearnDapper\\LearnDapper\\Model\\Data\\DapperDBContext.cs",
+              "RelativeDocumentMoniker": "LearnDapper\\Model\\Data\\DapperDBContext.cs",
+              "ToolTip": "E:\\Training\\C# and .net\\LearnDapper\\LearnDapper\\Model\\Data\\DapperDBContext.cs",
+              "RelativeToolTip": "LearnDapper\\Model\\Data\\DapperDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:33:20.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Training\\C# and .net\\LearnDapper\\LearnDapper\\appsettings.json",
+              "RelativeDocumentMoniker": "LearnDapper\\appsettings.json",
+              "ToolTip": "E:\\Training\\C# and .net\\LearnDapper\\LearnDapper\\appsettings.json",
+              "RelativeToolTip": "LearnDapper\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-30T12:28:20.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeRepo.cs",
+              "DocumentMoniker": "E:\\Training\\C# and .net\\LearnDapper\\LearnDapper\\Repo\\EmployeeRepo.cs",
+              "RelativeDocumentMoniker": "LearnDapper\\Repo\\EmployeeRepo.cs",
+              "ToolTip": "E:\\Training\\C# and .net\\LearnDapper\\LearnDapper\\Repo\\EmployeeRepo.cs",
+              "RelativeToolTip": "LearnDapper\\Repo\\EmployeeRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:38:20.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\Training\\C# and .net\\LearnDapper\\LearnDapper\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "LearnDapper\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\Training\\C# and .net\\LearnDapper\\LearnDapper\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "LearnDapper\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T07:19:09.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\Training\\C# and .net\\LearnDapper\\LearnDapper\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "LearnDapper\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\Training\\C# and .net\\LearnDapper\\LearnDapper\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "LearnDapper\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwAoAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T07:02:02.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeRepo.cs",
+              "DocumentMoniker": "E:\\Training\\C# and .net\\LearnDapper\\LearnDapper\\Repo\\IEmployeeRepo.cs",
+              "RelativeDocumentMoniker": "LearnDapper\\Repo\\IEmployeeRepo.cs",
+              "ToolTip": "E:\\Training\\C# and .net\\LearnDapper\\LearnDapper\\Repo\\IEmployeeRepo.cs",
+              "RelativeToolTip": "LearnDapper\\Repo\\IEmployeeRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:39:34.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Emoloyee.cs",
+              "DocumentMoniker": "E:\\Training\\C# and .net\\LearnDapper\\LearnDapper\\Model\\Emoloyee.cs",
+              "RelativeDocumentMoniker": "LearnDapper\\Model\\Emoloyee.cs",
+              "ToolTip": "E:\\Training\\C# and .net\\LearnDapper\\LearnDapper\\Model\\Emoloyee.cs",
+              "RelativeToolTip": "LearnDapper\\Model\\Emoloyee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:26:56.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Training\\C# and .net\\LearnDapper\\LearnDapper\\Program.cs",
+              "RelativeDocumentMoniker": "LearnDapper\\Program.cs",
+              "ToolTip": "E:\\Training\\C# and .net\\LearnDapper\\LearnDapper\\Program.cs",
+              "RelativeToolTip": "LearnDapper\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:36:19.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1168,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

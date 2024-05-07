@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Training\\C# and .net\\ASPCoreWebAPICRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A80C9A58-F2D0-45B0-8A22-0D2939F0A5EC}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|e:\\training\\c# and .net\\aspcorewebapicrud\\aspcorewebapicrud\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80C9A58-F2D0-45B0-8A22-0D2939F0A5EC}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|solutionrelative:aspcorewebapicrud\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80C9A58-F2D0-45B0-8A22-0D2939F0A5EC}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|e:\\training\\c# and .net\\aspcorewebapicrud\\aspcorewebapicrud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80C9A58-F2D0-45B0-8A22-0D2939F0A5EC}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|solutionrelative:aspcorewebapicrud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80C9A58-F2D0-45B0-8A22-0D2939F0A5EC}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|E:\\Training\\C# and .net\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Models\\MyDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80C9A58-F2D0-45B0-8A22-0D2939F0A5EC}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|solutionrelative:ASPCoreWebAPICRUD\\Models\\MyDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80C9A58-F2D0-45B0-8A22-0D2939F0A5EC}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|E:\\Training\\C# and .net\\ASPCoreWebAPICRUD\\aspcorewebapicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A80C9A58-F2D0-45B0-8A22-0D2939F0A5EC}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|solutionrelative:aspcorewebapicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80C9A58-F2D0-45B0-8A22-0D2939F0A5EC}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|E:\\Training\\C# and .net\\ASPCoreWebAPICRUD\\aspcorewebapicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80C9A58-F2D0-45B0-8A22-0D2939F0A5EC}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|solutionrelative:aspcorewebapicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tym\\AppData\\Local\\Temp\\.vsdbgsrc\\1fb43514d081377f2056b75d6537c5541ac3c6ef5064af040a77a1ab15bf391b\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Training\\C# and .net\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ASPCoreWebAPICRUD\\Models\\Student.cs",
+              "ToolTip": "E:\\Training\\C# and .net\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Models\\Student.cs",
+              "RelativeToolTip": "ASPCoreWebAPICRUD\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:15:44.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tym\\AppData\\Local\\Temp\\.vsdbgsrc\\1fb43514d081377f2056b75d6537c5541ac3c6ef5064af040a77a1ab15bf391b\\Program.cs",
+              "ToolTip": "C:\\Users\\Tym\\AppData\\Local\\Temp\\.vsdbgsrc\\1fb43514d081377f2056b75d6537c5541ac3c6ef5064af040a77a1ab15bf391b\\Program.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:20:20.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Training\\C# and .net\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Program.cs",
+              "RelativeDocumentMoniker": "ASPCoreWebAPICRUD\\Program.cs",
+              "ToolTip": "E:\\Training\\C# and .net\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Program.cs",
+              "RelativeToolTip": "ASPCoreWebAPICRUD\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAhwA8AAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T11:24:23.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Training\\C# and .net\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "ASPCoreWebAPICRUD\\appsettings.json",
+              "ToolTip": "E:\\Training\\C# and .net\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\appsettings.json",
+              "RelativeToolTip": "ASPCoreWebAPICRUD\\appsettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAIAwwAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-26T10:56:58.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDBContext.cs",
+              "DocumentMoniker": "E:\\Training\\C# and .net\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Models\\MyDBContext.cs",
+              "RelativeDocumentMoniker": "ASPCoreWebAPICRUD\\Models\\MyDBContext.cs",
+              "ToolTip": "E:\\Training\\C# and .net\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Models\\MyDBContext.cs",
+              "RelativeToolTip": "ASPCoreWebAPICRUD\\Models\\MyDBContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:17:09.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "E:\\Training\\C# and .net\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "ASPCoreWebAPICRUD\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "E:\\Training\\C# and .net\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "ASPCoreWebAPICRUD\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T12:00:11.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
